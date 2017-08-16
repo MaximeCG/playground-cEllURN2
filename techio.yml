@@ -1,7 +1,7 @@
-title : Python!
+ttitle : Python!
 
 # Table of content
-plan:
+pltan:
   - title: Welcome # Set the page title
     statement: markdowns/welcome.md # Set the file path to the page content
 #  - title: Another Page
